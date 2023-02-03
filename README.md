@@ -1,2 +1,3 @@
 # Anomaly-Detection
 Fraud detection, Phishing, ...
+Using both supervised and unsupervised learning approaches.
